@@ -1,0 +1,17 @@
+body {
+  background-color: #1C2A44; /* ネイビーブルーを外部CSSで指定 */
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.footer {
+  position: absolute;
+  bottom: 1rem;
+  font-size: 0.9rem;
+  color: #ccc;
+}
