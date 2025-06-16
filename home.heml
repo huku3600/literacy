@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>嫌われる勇気</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <style>
+    h1 {
+      color: #E63946; /* レッドをstyle要素で指定 */
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>嫌われる勇気</h1>
+  <p style="color: #FFFFFF; font-size: 1.2rem; max-width: 600px; text-align: center;">
+    他者の期待を満たすために生きるのではなく、自分の信じる道を歩む――それが自由であり、勇気である。
+  </p>
+  <div class="footer">© 2025 嫌われる勇気ウェブサイト</div>
+</body>
+</html>
